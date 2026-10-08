@@ -1,0 +1,38 @@
+body
+{
+background-color: pink;
+font-family: Arial;
+font-size: 20px;
+}
+
+.titre
+{
+background-color: red;
+height: 300px;
+width: 400px;
+
+color: yellow;
+
+float: left;
+}
+
+.b2
+{
+background-color: red;
+height: 400px;
+width: 400px;
+margin-bottom: 20px;
+color: yellow;
+
+float: right;
+}
+
+.b3
+{
+background-color: red;
+height: 400px;
+width: 400px;
+
+color: yellow;
+clear: both;
+}
